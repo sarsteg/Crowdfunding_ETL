@@ -6,7 +6,6 @@ Sarah Stegall-Rodriguez, Savannah Serrano, & Michaela Dobbs.
 
 ### Summary of the project
 
-
 ### Contents
 
 * Instructions.pdf - Detailed instructions for the completion of the project.
@@ -15,4 +14,7 @@ Sarah Stegall-Rodriguez, Savannah Serrano, & Michaela Dobbs.
 
 
 
-Collaboration with GitHub: https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+### Collaboration with GitHub
+
+* https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+* https://support.atlassian.com/bitbucket-cloud/docs/check-out-a-branch/

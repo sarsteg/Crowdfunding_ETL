@@ -8,11 +8,11 @@ Sarah Stegall-Rodriguez, Savannah Serrano, & Michaela Dobbs.
 
 ### Contents
 
-* ETL_Mini_Project... .ipynb - Jupyter Notebook to create three databases.
-* Resources folder - contains the two datasets used in the project.
+* ETL_Mini_Project... .ipynb - Jupyter Notebook to create four databases.
+* Resources folder - contains the two Excel files used in the project.
 * ERD - contains entity relationship diagram (ERD) and code used in QuickDB.
 * PgAdmin - contains schema used for PgAdmin and screenshots of imported tables.
-* Support_Docs - contains guides for project.
+* Support_Docs - contains guides for the project.
 
 ### Collaboration with GitHub
 

@@ -8,7 +8,6 @@ Sarah Stegall-Rodriguez, Savannah Serrano, & Michaela Dobbs.
 
 ### Contents
 
-* Instructions.pdf - Detailed instructions for the completion of the project.
 * ETL_Mini_Project... .ipynb - Jupyter Notebook to create three databases.
 * Resources folder - contains the two datasets used in the project.
 * ERD - contains entity relationship diagram (ERD) and code used in QuickDB.
